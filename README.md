@@ -5,3 +5,9 @@ About me:
 
 Description: 
 Exercise 2 steps
+
+Bella B.
+Collaborator for the account. Learning to use GitHub.
+
+Description:
+Exercise 4 steps
